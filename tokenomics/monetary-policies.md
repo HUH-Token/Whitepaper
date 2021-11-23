@@ -1,8 +1,10 @@
 # Monetary Policies
 
+The monetary policies committee (MPC) is responsible to coordinate the proper control of the available financial instruments.
+
 ## Monetary Policies Committee
 
-Monetary Policies Committee HUH has a multi disciplinary monetary policies committee (MPC) formed to cover the following key areas of knowledge:
+Monetary Policies Committee HUH has a multi disciplinary monetary policies committee formed to cover the following key areas of knowledge:
 
 * economy
 * blockchain and cryptocurrencies technologies
@@ -10,7 +12,7 @@ Monetary Policies Committee HUH has a multi disciplinary monetary policies commi
 * applied math
 * automated algorithms
 
-The MPC will make periodic meetings to safeguard the health of the HUH ecosystem taking into consideration direct and indirect circular economy concepts whenever feasible. It is responsible to coordinate the proper control of the financial instruments available.
+The MPC will make periodic meetings to safeguard the health of the HUH ecosystem taking into consideration direct and indirect circular economy concepts whenever feasible.
 
 ## Financial Instruments
 
@@ -19,7 +21,8 @@ The following financial instruments are subject to the control of the MPC:
 * Market making partners and algorithms
 * Liquidity providers and their own instruments
 * Tokenomics variables update
-* Smart contracts upgradeability Token burns
+* Smart contracts upgradeability
+* Token burns
 * HUH Derivatives
 
 The smart contracts upgradeability feature will not be available at v1 smart contracts launch. This is planned to be launched on v2 smart contracts release.
