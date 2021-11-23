@@ -23,9 +23,17 @@ The heatmap of the figure 6 shows the vote quality change depending on the consc
 
 
 
-A technology based on the [Consider.it](https://consider.it) system is being developed to run our main consensus strategy CSU in order to reach DAOs outcomes. The stake is calculated by the formula in Equation 1.
+A technology based on the [Consider.it](https://consider.it) system is being developed to run our main consensus strategy CSU in order to reach DAOs outcomes. The stake is calculated by the formula in Equation 1.&#x20;
 
-![Eq.1 Stake calculation for voting in ConSenseUs strategy.](https://lh5.googleusercontent.com/YsQWfBlE3ysibvFmdJ44epPtlh6ehp7EaWeSSD-UBFxLJTxzBnaytPKWrpTJ8u7B5TWII4bQsV-weLCeSWCTWuNzBBXNN4aNvmJSHGYl7v\_I1lvgPBfKFvkyVlsOgyOoO9MT2r5G)
+$$
+{
+stake = \Delta t * amount_{lockedtokens}
+}
+$$
+
+​Eq.1 Stake calculation for voting in ConSenseUs strategy.
+
+
 
 Where:
 
