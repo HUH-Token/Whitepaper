@@ -28,4 +28,4 @@ The friend goes to the HUH website and uses the referral code generated and show
 
 ![Fig. 5. Register Referral Code sequence diagram](https://lh5.googleusercontent.com/oQlhn8IywFLi6EM8noAvI6mXYsGZV4r2It1oSqz-EyRsiUJrMRWr3vqVzKT4zbDqTa6iewF8Nn7sDWgKGTf1XjstcXZ4\_E\_s8XYGfLCoS4DoXcmXAMmq\_ZwxFeSMCyOWS8m-q6bn)
 
-On the first buy transaction initiated by the friend, a 10% referral fee is taken and sent to the ‘Reward Distributor’ (see explanation below) as referral reward. The Reward Distributor holds the referral rewards which can be claimed anytime. Once a wallet is referred, its ‘sell fee’ is reduced from 20% to 10%. This incentivises early adopters to onboard more users and build the foundation of the platform.
+On the first buy transaction initiated by the friend, a 10% referral fee is taken and sent to the ‘Reward Distributor’ (see [explanation below](reward-distributor.md)) as referral reward. The Reward Distributor holds the referral rewards which can be claimed anytime. Once a wallet is referred, its ‘sell fee’ is reduced from 20% to 10%. This incentivises early adopters to onboard more users and build the foundation of the platform.
