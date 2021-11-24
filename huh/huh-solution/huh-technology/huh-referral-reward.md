@@ -16,8 +16,6 @@ The Connect Wallet reference of figure 1 is detailed in figure 2.
 
 The Generate Referral Code Step 1 of figure 1 is detailed in figure 3.
 
-&#x20;diagram
-
 ![Fig. 3. The Generate Referral Code Step 1 sequence](https://lh6.googleusercontent.com/pZvpJr7rKUcdq8lpJ8sMOb-NYUhkfwl4wUoByT\_L6pi6FVxqoFuZJVRzkV6baVRf9Bvm6Y9zJJkewjeUyHsF1N\_uQHkBwZ0SZejYLV7i7ZLew9IfocWe1CBKZttPCw2DyOH71u2b)
 
 The Generate Referral Code Steps 2 and 3 of figure 1 is detailed in figure 4.
