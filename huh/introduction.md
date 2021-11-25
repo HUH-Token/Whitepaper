@@ -32,7 +32,7 @@ Creation of the world’s first “UTIMEME” cryptocurrency combining the power
 
 ### Why HUH?
 
-Because it is the most commonly used word in the world. This particular word connects people together with impact, enthusiasm and fun.
+Because it is the most commonly used word in the world. This incredible word connects people together with impact, enthusiasm and fun.
 
 ## HUH THINKING
 
