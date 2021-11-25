@@ -14,8 +14,6 @@ Have fun, start living a fulfilling life - HUH.
 
 ## HUH DREAM
 
-#### __
-
 > #### _“Never stop dreaming!_”
 
 Winston Churchill
