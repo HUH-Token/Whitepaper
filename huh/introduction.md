@@ -20,7 +20,7 @@ Winston Churchill
 
 To create a fair world for everyone, to rebalance the social order and create a sustainable environment for generations to come.  &#x20;
 
-> #### “To give is always better than to receive”
+> #### _“To give is always better than to receive_”
 
 Clara Tee
 
