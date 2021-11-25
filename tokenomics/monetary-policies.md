@@ -4,7 +4,7 @@ The monetary policies committee (MPC) is responsible to coordinate the proper co
 
 ## Monetary Policies Committee
 
-Monetary Policies Committee HUH has a multi disciplinary monetary policies committee formed to cover the following key areas of knowledge:
+HUH has a multi-disciplinary monetary policies committee formed to cover the following key areas of knowledge:
 
 * economy
 * blockchain and cryptocurrencies technologies
@@ -12,7 +12,7 @@ Monetary Policies Committee HUH has a multi disciplinary monetary policies commi
 * applied math
 * automated algorithms
 
-The MPC will make periodic meetings to safeguard the health of the HUH ecosystem taking into consideration direct and indirect circular economy concepts whenever feasible.
+The MPC will make periodic meetings to safeguard the health of the HUH ecosystem taking into consideration direct and indirect circular economy concepts whenever feasible. It is responsible to coordinate the proper control of the financial instruments available.
 
 ## Financial Instruments
 

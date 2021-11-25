@@ -8,8 +8,7 @@
       * [Liquidity Pool (LP) acquisition](huh/huh-solution/huh-technology/liquidity-pool-lp-acquisition.md)
       * [HUH Referral Reward](huh/huh-solution/huh-technology/huh-referral-reward.md)
       * [Reward Distributor](huh/huh-solution/huh-technology/reward-distributor.md)
-    * [MetHUH technology](huh/huh-solution/methuh-technology.md)
-    * [How to claim?](huh/huh-solution/how-to-claim.md)
+    * [The MetHUH Sentiment Tokens](huh/huh-solution/methuh-technology.md)
     * [HUH token protection](huh/huh-solution/huh-token-protection.md)
   * [HUH Governance](huh/huh-governance.md)
 * [How to buy](how-to-buy.md)
@@ -17,6 +16,7 @@
 
 ## TOKENOMICS
 
+* [Tokenomics Vision](tokenomics/tokenomics-vision.md)
 * [Multi-chain protocol](tokenomics/multi-chain-protocol.md)
 * [Monetary Policies](tokenomics/monetary-policies.md)
 * [HUH Token Market](tokenomics/huh-token-market.md)

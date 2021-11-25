@@ -6,26 +6,36 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nisl tortor, euis
 
 ## Roadmap
 
-### Q 1
+### Stage 1 - meme&#x20;
 
-* Launch the Token on DEX’s (PancakeSwap and UniSwap)
-* Get Listed on CoinGecko and CoinMarketCap
-* Receive All Audits (Certik, Solidity.finance and Shell Box)
-* Develop our own HUH Swap
-* Trust Wallet and MetaMask Wallet complete with Logo and Tickr
-* Tier 3 and, if possible, Tier 2 CEX Listings
+* Launch the Token on DEX’s (PancakeSwap and UniSwap)&#x20;
+* Get Listed on CoinGecko and CoinMarketCap&#x20;
+* Receive All Audits (Certik, Solidity.finance and Shell Box)&#x20;
+* HUH Redistribution Model&#x20;
+* HUH Swap&#x20;
+* HUH ConSenseUs&#x20;
+* Trust Wallet and MetaMask Wallet complete with Logo and Tickr&#x20;
+* Tier 3 and, if possible, Tier 2 CEX Listings&#x20;
+* HUH bug bounty campaign&#x20;
 
-### Q2
+### Stage 2 - meme&#x20;
 
-* Create HUH Wallet
-* Tier 2 (if not already done) and Tier 1 CEX Listings
-* Release the new revamped website with full functionality
+* Create HUH Wallet&#x20;
+* Tier 2 (if not already done) and Tier 1 CEX Listings&#x20;
+* Release the new revamped website with full functionality&#x20;
 
-### Q 3
+### Stage 3 - utility&#x20;
 
-* NFT MarketPlace
-* HUH Social CRM Platform
-* HUH App
-* GIG Generating MarketPlace
-* Be listed on over 70 exchanges
+* NFT Marketplace&#x20;
+* HUH Social CRM Platform&#x20;
+* HUH Social CRM Platform&#x20;
+* HUH App&#x20;
+* HUH DAO&#x20;
+* HUH NFT’s for social influencers&#x20;
+* HUH App&#x20;
 
+### Stage 4 - UTImeme&#x20;
+
+* GIG Generating Marketplace&#x20;
+* The metHUH sentiment tokens&#x20;
+* Be listed on over 100 exchanges&#x20;

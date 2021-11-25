@@ -26,8 +26,12 @@ description: Do your own research, HUH?
 
 #### Perspective API <a href="references_perspectiveapi" id="references_perspectiveapi"></a>
 
-* Perspective API. “Perpective API website.” Perspective API, 2020, [https://www.perspectiveapi.com](broken-reference). Accessed 23 November 2021.
+* Perspective API. “Perpective API website.” Perspective API, 2020, [https://www.perspectiveapi.com](broken-reference/). Accessed 23 November 2021.
 
 #### IBM Watson Tone Analyser <a href="references_ibmwatsontoneanalyser" id="references_ibmwatsontoneanalyser"></a>
 
 * IBM. “IBM Watson Tone Analyser.”IBM.com, 2018, [https://www.ibm.com/cloud/watson-tone-analyzer](https://www.ibm.com/cloud/watson-tone-analyzer). Accessed 23 November 2021.
+
+#### Miller-Keane Encyclopedia and Dictionary of Medicine, Nursing, and Allied Health, Seventh Edition
+
+* "truth telling." Miller-Keane Encyclopedia and Dictionary of Medicine, Nursing, and Allied Health, Seventh Edition. 2003. Saunders, an imprint of Elsevier, Inc 25 Nov. 2021 [https://medical-dictionary.thefreedictionary.com/truth+telling](https://medical-dictionary.thefreedictionary.com/truth+telling)
