@@ -1,4 +1,4 @@
-# HUH token protection
+# HUH TOKEN PROTECTION
 
 HUH issues initial liquidity provided as ‘LP tokens’ and locks them for 2 years as an effective strategy to maintain robust liquidity at all times. DxLock rather will be used as a third-party facilitator to ensure that all LP tokens are locked in a secure and safe vault. LP tokens are generated with every trade and are also locked on transactions using Pancake Swap exchange solutions. These instruments dampen volatility and therefore bring greater stability especially when relevant volume transactions take place.&#x20;
 
@@ -10,4 +10,4 @@ The security committee is responsible to react appropriately to all security rep
 
 ## Bug bounty campaign
 
-White hat hackers are more than welcome to contribute by submitting their findings to [bounty at social.huh](mailto:bounty@social.huh). We as a team invite the community to gradually become more involved with HUH's governance. Aligned with this policy, pull requests to the bug bounty campaign documents are welcome as well [here](https://github.com/HUH-Token/bug-bounty-campaign-docs/tree/development).
+White hat hackers are more than welcome to contribute by submitting their findings to [bounty at social dot huh](mailto:bounty@social.huh). We as a team invite the community to gradually become more involved with HUH's governance. Aligned with this policy, pull requests to the bug bounty campaign documents are welcome as well [here](https://github.com/HUH-Token/bug-bounty-campaign-docs/tree/development).
