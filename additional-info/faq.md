@@ -6,8 +6,12 @@ Generally, no. Because there is a bridge that you can use at any time, the value
 
 ## Is the liquidity locked on both chains?
 
-Yes. Liquidity is locked for 2 years on both the Ethereum blockchain and the Binance Smart Chain.&#x20;
+Yes. Liquidity is locked for 2 years on both the Ethereum blockchain and the Binance Smart Chain.
 
 ## How is HUH different from other meme coins?
 
-HUH is a double sided sword with both meme and utility traits. Under the utility umbrella a novel social network is formed with a crypto first approach, HUH?
+HUH is a double sided sword with both meme and utility traits. Under the utility umbrella a novel social network is formed with a crypto first approach - HUH
+
+## How is Elon Musk involved in HUH?
+
+HUH has offered [Elon Musk’s Foundation](https://www.influencewatch.org/non-profit/musk-foundation/) 20% of its tokens to use for its key causes namely: “renewable energy research and advocacy,” “human space exploration research and advocacy,” “paediatric research,” “science and engineering education,” and “development of safe artificial intelligence to benefit humanity. HUH awaits Elon’s answer.
