@@ -4,11 +4,11 @@ description: >-
   purchase $HUH tokens on Uniswap and PancakeSwap.
 ---
 
-# How to buy
+# HOW TO BUY
 
 ## Buying $HUH
 
-### &#x20;<a href="buying-usdfloki" id="buying-usdfloki"></a>
+### &#x20;<a href="#buying-usdfloki" id="buying-usdfloki"></a>
 
 **First, You Need to Install a Wallet. Below is a guide to installing Metamask.**
 
@@ -22,7 +22,7 @@ description: >-
 
 You will know Metamask has been installed when you see the fox logo on the upper right hand corner of your browser.
 
-![](<.gitbook/assets/image (2) (1).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 #### **Using Metamask**
 

@@ -1,4 +1,4 @@
-# The MetHUH Sentiment Tokens
+# THE MetHUH SENTIMENT TOKENS
 
 In MetHUH, content is created by social influencers and made available to users on their behalf. Users, consume the content on MetHUH. Both content production and consumption are evaluated with sentiment analysis being carried out by an AI based evaluation carried out by systems like IBM Watson and Google Perspective using comment analysers. With this information, a sentiment analysis report attaches to both the social influencers and the users accounts and sentiment tokens are awarded accordingly depending on detected traits.&#x20;
 
@@ -55,7 +55,7 @@ The following traits extend the basic functionality and are modelled as the ligh
 29. Thank&#x20;
 30. Unite&#x20;
 
-Light, tone and moderation traits are a subject of deep research on the field of sentiment analysis. HUH aim to strongly collaborate together with partners to achieve the functionality extension.&#x20;
+* Light, tone and moderation traits are a subject of deep research on the field of sentiment analysis. HUH aim to strongly collaborate together with partners to achieve the functionality extension.&#x20;
 
 Whenever a social influencer’s posts content to, or a user views content on, the MetHUH, a transaction with the detected levels of tone, moderation and light tokens is sent to social influencer’s/user’s account. MetHUH technology detects tone, moderation and light traits in the posted content using an ever-evolving algorithm and mint sentiment tokens which form an inherent part of the HUH ecosystem.&#x20;
 

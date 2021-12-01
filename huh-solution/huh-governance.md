@@ -1,4 +1,4 @@
-# HUH Governance
+# HUH GOVERNANCE
 
 HUH believes that each vote counts, but vote quality and the amount of HUH tokens held for how long count as well. Therefore, HUH Governance is designed to be facilitated by Decentralised Autonomous Organisations (DAOs) using a new consensus strategy whereby vote quality is not compromised, at the expense of increased complexity. It is called ConSenseUs (CSU) – see below.
 
@@ -48,7 +48,7 @@ Where:
 
 ## Freezing
 
-The process of token time locking HUH tokens is called freezing ❄️ by HUH community. People are incentivised to freeze their stake for longer time and to become more knowledgeable of the most frequent voting subjects as means to increase their voting power.
+The process of token time locking HUH tokens is called freezing by HUH community. People are incentivised to freeze their stake for longer time and to become more knowledgeable of the most frequent voting subjects as means to increase their voting power.
 
 ## HUH Federations
 
