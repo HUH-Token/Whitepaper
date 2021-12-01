@@ -36,7 +36,7 @@ The success of open source decentralised 'meme' cryptocurrencies has broken reco
 
 At HUH the key concepts that make meme tokens so successful has been investigated alongside the cause-and-effect relations generally associated with the longevity of utility tokens. The HUH Token merges these concepts together and creates the world’s first “UTIMEME” cryptocurrency. **A token created with the tokenomics of a meme cryptocurrency but with clear useability of a utility token, an entire harmonic ecosystem that enables a multitude of growth possibilities.**&#x20;
 
-### The more possibilities to the better - HUH?
+### The more possibilities to grow the better - HUH?
 
 HUH are committed to promote a fertile ground for multidimensional growth in the dimensions that matter to you.
 
