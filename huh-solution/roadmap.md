@@ -23,8 +23,6 @@
 * NFT Marketplace&#x20;
 * HUH Social CRM Platform&#x20;
 * HUH Social CRM Platform&#x20;
-* HUH App&#x20;
-* HUH DAO&#x20;
 * HUH NFT’s for social influencers&#x20;
 * HUH App&#x20;
 
@@ -32,4 +30,8 @@
 
 * GIG Generating Marketplace&#x20;
 * The metHUH sentiment tokens&#x20;
-* Be listed on over 100 exchanges&#x20;
+* Be listed on over 100 exchanges
+
+## Stage 5 - DAO
+
+* HUH DAO

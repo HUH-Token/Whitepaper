@@ -67,15 +67,15 @@ The sentiment tokens are classified as:&#x20;
 
 As such social influencers and the viewers of their content, users, will be able to earn sentiment tokens and trade them for HUH tokens. The dynamics involved effectively increase HUH token volume in exchanges and positions HUH as a unique value proposition in any cryptocurrency assets portfolio. HUH treasury will apply a percentage of the working capital buying and burning ️‍‍‍🔥 sentiment tokens associated with the most demanded traits by the community.&#x20;
 
-Community members are incentivized to earn light tokens by producing and consuming content because, among other factors, light tokens earned will be financially valuable by HUH's governance by means of conducting the sentiment tokens monetary policy.&#x20;
+Community members are incentivised to earn light tokens by producing and consuming content because, among other factors, light tokens earned will be financially valuable by HUH's governance by means of conducting the sentiment tokens monetary policy.&#x20;
 
-Buying sentiment tokens from exchanges then burning them is one important instrument that concretely gives financial value to token holders.&#x20;
+Fees generated from transactions in HUH will, in part, be used to fund the purchase of sentiment tokens from community members to create financial value to them.&#x20;
 
-Community members are also incentivized to participate in HUH's governance collectively deciding which sentiment tokens will be valued the most. HUH believe circular economy researchers are key here in maximizing multidimensional growth.&#x20;
+Community members are also incentivised to participate in HUH's governance collectively deciding which sentiment tokens will be valued the most. HUH believe circular economy researchers are key here in maximizing multidimensional growth.&#x20;
 
 ## Defend Science&#x20;
 
-From all the light tokens there is one of special community interest called defend science. HUH believe that only with quality scientific methodology communities are able to effectively curate ideas and combat fake news.&#x20;
+From all the light tokens there is one of special community interest called defend science. HUH believes that only by the use of sentiment tokens are they able to effectively curate ideas and combat fake news.&#x20;
 
 > _“Life is something beautiful. Nature too, and your body (your boat, if you prefer, because you are the captain of your boat), is a part of this nature. The more you understand nature, the better you will understand your body. For that you don't have to be a scientist, a doctor or a university professor. Just be yourself, with your brain between your ears and always testing and asking the things behind. So, you will soon understand better what is going around. Stay safe and take care of yourself.”_
 

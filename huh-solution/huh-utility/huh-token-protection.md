@@ -10,4 +10,4 @@ The security committee is responsible to react appropriately to all security rep
 
 ## Bug bounty campaign
 
-White hat hackers are more than welcome to contribute by submitting their findings to [bounty at social dot huh](mailto:bounty@social.huh). We as a team invite the community to gradually become more involved with HUH's governance. Aligned with this policy, pull requests to the bug bounty campaign documents are welcome as well [here](https://github.com/HUH-Token/bug-bounty-campaign-docs/tree/development).
+White hat hackers are more than welcome to contribute by submitting their findings to [bounty at social dot huh](mailto:bounty@social.huh). We as a team invite the community to become more involved with HUH's governance. Aligned with this policy, pull requests to the bug bounty campaign documents are welcome as well [here](https://github.com/HUH-Token/bug-bounty-campaign-docs/tree/development).
