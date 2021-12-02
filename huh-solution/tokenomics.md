@@ -71,10 +71,6 @@ Total Supply: 888,000,000,000 (888 billion HUH Tokens).&#x20;
 
 Pre-Sale: 1% of Total Supply (8,880,000,000).&#x20;
 
-Dev Wallet: 5%&#x20;
-
-Marketing Wallet: 10%
-
 ### Transaction types:
 
 * Normal Buy
