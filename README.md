@@ -24,7 +24,7 @@ Our dream is a decentralised metaverse where everyone gains  from the data they 
 
 ## HUH VISION
 
-Creation of the world’s first “UTIMEME” cryptocurrency combining the power of ‘meme’ tokens with the useability of 'utility' tokens. Tokenomics to drive rapid growth in the value of the HUH token that will be the basis for transaction and reward across a meaningful social network called 'MetHUH' where users' data ownership is taken seriously from a cryptocurrency first perspective. With the HUH social network, MetHUH, everyone can be rewarded in HUH for exchanges of content and engagement.
+Creation of the world’s first “UTIMEME” cryptocurrency combining the power of ‘meme’ tokens with the useability of 'utility' tokens. Tokenomics to drive sustainable rapid growth in the value of the HUH token that will be the basis for transaction and reward across a meaningful social network called 'MetHUH' where users' data ownership is taken seriously from a cryptocurrency first perspective. With the HUH social network, MetHUH, everyone can be rewarded in HUH for exchanges of content and engagement.
 
 ### Why HUH?
 
