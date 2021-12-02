@@ -6,16 +6,13 @@ HUH token initially presents a bold fees system to accommodate initial market ne
 
 ## MULTI-CHAIN PROTOCOL
 
-The HUH token is available on more than one blockchain. Each blockchain HUH is on has its own strong points that allows the HUH ecosystem to thrive on it.&#x20;
+The HUH token will be available on more than one blockchain. Each blockchain HUH is on has its own strong points that allows the HUH ecosystem to thrive on it.&#x20;
 
-As of right now, HUH will be made available on the following blockchains:&#x20;
-
-* Ethereum&#x20;
-* Binance Smart Chain&#x20;
+As of right now, HUH will be made available on the Binance Smart Chain with Ethereum to follow shortly.&#x20;
 
 HUH plans to bring liquidity to pools on strategic decentralised exchanges while ensuring that total circulating supply across all chains never exceeds 888B tokens as originally promised.&#x20;
 
-There will be an ETH-BSC bridge with a 1:1 swap for HUH holders to move seamlessly between the two original chains. Due to the 1:1 swap, the supply and price of HUH between chains are intertwined. The Fees System is not applied to bridging. This means users won’t pay HUH transaction fees when moving tokens between the ETH and BSC chains. Users will only pay fees when doing usual transactions. As a market positioning strategy, HUH token is meant to be ubiquitous. That is why we will be extending HUH token to as many blockchains as possible.
+There will be an ETH-BSC bridge with a 1:1 swap for HUH holders to move seamlessly between the two chains. Due to the 1:1 swap, the supply and price of HUH between chains are intertwined. The Fees System is not applied to bridging. This means users won’t pay HUH transaction fees when moving tokens between the ETH and BSC chains. Users will only pay fees when doing usual transactions. As a market positioning strategy, HUH token is meant to be ubiquitous. That is why we will be extending HUH token to as many blockchains as possible.
 
 ## MONETARY POLICIES
 
@@ -60,21 +57,9 @@ To create the volume needed to be listed on CG and CMC HUH need to generate, in 
 
 To get listed on the Tier 3 exchanges HUH will need to reach a daily trade volume of between $100,000 - $500,000.&#x20;
 
-To get listed on the Tier 2 and Tier 1 exchanges HUH need to provide a daily trading volume over $5,000,000.&#x20;
+To get listed on the Tier 2 and Tier 1 exchanges HUH will need to reach a daily trading volume over $5,000,000.&#x20;
 
 ### HUH KEY INFORMATION
-
-#### Networks:
-
-|                     |              |            |                      |                        |
-| ------------------- | ------------ | ---------- | -------------------- | ---------------------- |
-| **Network**         | **Protocol** | **Ticker** | **Contract Address** | **Total token supply** |
-| Ethereum            | ERC-20       | HUH        | TBD                  | 888,000,000,000        |
-| Binance Smart Chain | BEP-20       | HUH        | TBD                  | 888,000,000,000        |
-
-#### Cross Chains Bridge:
-
-888 billion tokens will be locked forever in Binance Smart Chain to Ethereum bridge.
 
 ### PRESALE BREAKDOWN
 
@@ -117,7 +102,7 @@ For each transaction type there are different fees applied as follows:
 
 The Dev Wallet is at 5% as to continue paying developers in continuously improving the HUH Token and adapting it for the future.&#x20;
 
-The Marketing Wallet is at 10%, HUH have a large marketing strategy and due to the multiple listings, we are aiming to achieve, we have added the 5% transaction fee. The Marketing Wallet is to maintain all the partnerships and listings. HUH aim to be listed on around 100 exchanges within the first 12 months.&#x20;
+The Marketing Wallet is at 5%, HUH have a large marketing strategy and due to the multiple listings, we are aiming to achieve, we have added the 5% transaction fee. The Marketing Wallet is to maintain all the partnerships and listings. HUH aim to be listed on around 100 exchanges within the first 12 months.&#x20;
 
 The Breakdown behind the numbers is that HUH want to always provide back to the LP (Liquidity Pool) as to dampen volatility.&#x20;
 
