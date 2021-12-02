@@ -61,6 +61,8 @@ To get listed on the Tier 2 and Tier 1 exchanges HUH will need to reach a daily 
 
 ### HUH KEY INFORMATION
 
+![](<../.gitbook/assets/image (1).png>)
+
 ### PRESALE BREAKDOWN
 
 The Current value of the token is: $1 = 177 HUH Tokens.&#x20;

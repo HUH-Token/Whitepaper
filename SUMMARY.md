@@ -14,7 +14,6 @@
 
 ## Exchanges
 
-* [Uniswap](exchanges/uniswap.md)
 * [PancakeSwap](exchanges/pancakeswap.md)
 * [Centralized Exchanges](exchanges/centralized-exchanges.md)
 
