@@ -24,17 +24,17 @@ Our dream is a decentralised metaverse where everyone gains  from the data they 
 
 ## HUH VISION
 
-Creation of the world’s first “UTIMEME” cryptocurrency combining the power of ‘meme’ tokens with the useability of utility tokens. Tokenomics to drive rapid growth in the value of the HUH token that will be the basis for transaction and reward across a meaningful social network called 'MetHUH' where users' data ownership is taken seriously from a cryptocurrency first perspective. With the HUH social network, MetHUH, everyone can be rewarded in HUH for exchanges of content and engagement.
+Creation of the world’s first “UTIMEME” cryptocurrency combining the power of ‘meme’ tokens with the useability of 'utility' tokens. Tokenomics to drive rapid growth in the value of the HUH token that will be the basis for transaction and reward across a meaningful social network called 'MetHUH' where users' data ownership is taken seriously from a cryptocurrency first perspective. With the HUH social network, MetHUH, everyone can be rewarded in HUH for exchanges of content and engagement.
 
 ### Why HUH?
 
-Because it is the most commonly used word on the planet.
+Because it is the most commonly used word on the planet!
 
 ## HUH THINKING
 
 The success of open source decentralised 'meme' cryptocurrencies has broken records and overshadowed some of the most long-standing cryptocurrencies classified as “utility”. To date meme cryptocurrencies have enjoyed the public’s attention and have gained an immense following. Two of them already having a combined market cap greater than some of the top 15 cryptocurrencies in the world. One of the key issues, however, is their inability to ever scale beyond their “meme” status. More elaborated use cases are not present in most of these tokens and many slowly lose traction once the hype has died. Seasoned investors frequently avoid these cryptocurrencies.
 
-At HUH the key concepts that make meme tokens so successful has been investigated alongside the cause-and-effect relations generally associated with the longevity of utility tokens. The HUH Token merges these concepts together and creates the world’s first “UTIMEME” cryptocurrency. **A token created with the tokenomics of a meme cryptocurrency but with clear useability of a utility token, an entire harmonic ecosystem that enables a multitude of growth possibilities.**&#x20;
+At HUH the key concepts that make meme tokens so successful have been investigated alongside the cause-and-effect relations generally associated with the longevity of utility tokens. The HUH Token merges these concepts together and creates the world’s first “UTIMEME” cryptocurrency. **A token created with the tokenomics of a meme cryptocurrency but with clear useability of a utility token, an entire harmonic ecosystem that enables a multitude of growth possibilities.**&#x20;
 
 ### The more possibilities to grow the better - HUH?
 
