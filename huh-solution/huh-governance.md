@@ -54,7 +54,7 @@ The process of token time locking HUH tokens is called freezing by HUH community
 
 Federated child organizations may form a HUH federation. A HUH federation is any DAO in which at least two different member entities are also a DAO.  The purpose of a HUH federation is to lead around common values among federated entities. The union of federations and organizations is promoted by means of a system designed to reward union tokens to cohesive behaviours. The more behaviours provenly associated with strengthening the union and combating division within the community more HUH union tokens will be granted to the responsible entity.&#x20;
 
-A strong union observed by HUH entities is analogous to the concept behind a tree where strong roots, trunk and associated branches with happy green leaves are instrumental to achieve sustainable growth.
+A strong union observed by HUH entities is analogous to the concept behind a tree where strong roots, trunk and associated branches with 'happy' green leaves are instrumental to achieve sustainable growth.
 
 ## HUH Improvement Proposals (HIP)
 
