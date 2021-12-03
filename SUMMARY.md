@@ -1,19 +1,22 @@
 # Table of contents
 
 * [DISCLAIMER](README.md)
-* [INTRODUCTION](<README (1).md>)
-* [HUH SOLUTION](huh-solution/README.md)
-  * [TOKENOMICS](huh-solution/tokenomics.md)
-  * [HUH UTILITY](huh-solution/huh-utility/README.md)
-    * [HUH REFERRAL REWARD](huh-solution/huh-utility/huh-referral-reward.md)
-    * [REWARD DISTRIBUTOR](huh-solution/huh-utility/reward-distributor.md)
-    * [THE MetHUH SENTIMENT TOKENS](huh-solution/huh-utility/methuh-technology.md)
-    * [HUH TOKEN PROTECTION](huh-solution/huh-utility/huh-token-protection.md)
-    * [LIQUIDITY POOL (LP) ACQUISITION](huh-solution/huh-utility/liquidity-pool-lp-acquisition.md)
-  * [HUH GOVERNANCE](huh-solution/huh-governance.md)
-  * [ROADMAP](huh-solution/roadmap.md)
 
-## Exchanges
+## HUH CORE
+
+* [INTRODUCTION](huh-core/introduction.md)
+* [HUH SOLUTION](huh-core/huh-solution/README.md)
+  * [TOKENOMICS](huh-core/huh-solution/tokenomics.md)
+  * [HUH UTILITY](huh-core/huh-solution/huh-utility/README.md)
+    * [HUH REFERRAL REWARD](huh-core/huh-solution/huh-utility/huh-referral-reward.md)
+    * [REWARD DISTRIBUTOR](huh-core/huh-solution/huh-utility/reward-distributor.md)
+    * [THE MetHUH SENTIMENT TOKENS](huh-core/huh-solution/huh-utility/methuh-technology.md)
+    * [HUH TOKEN PROTECTION](huh-core/huh-solution/huh-utility/huh-token-protection.md)
+    * [LIQUIDITY POOL (LP) ACQUISITION](huh-core/huh-solution/huh-utility/liquidity-pool-lp-acquisition.md)
+  * [HUH GOVERNANCE](huh-core/huh-solution/huh-governance.md)
+  * [ROADMAP](huh-core/huh-solution/roadmap.md)
+
+## EXCHANGES
 
 * [PancakeSwap](exchanges/pancakeswap.md)
 * [Centralized Exchanges](exchanges/centralized-exchanges.md)

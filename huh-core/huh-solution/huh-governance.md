@@ -17,7 +17,7 @@ The quality of a vote will be modelled initially as a bi-dimensional feature dep
 
 The heatmap of the figure 6 shows the vote quality change depending on the consciousness and frozen stake a voter has.
 
-![Fig. 6. Vote quality heatmap](<../.gitbook/assets/image (1) (1).png>)
+![Fig. 6. Vote quality heatmap](<../../.gitbook/assets/image (1) (1).png>)
 
 
 
