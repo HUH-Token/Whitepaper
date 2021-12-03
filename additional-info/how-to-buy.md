@@ -22,7 +22,7 @@ description: >-
 
 You will know Metamask has been installed when you see the fox logo on the upper right hand corner of your browser.
 
-![](<../.gitbook/assets/image (2) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1).png>)
 
 #### **Using Metamask**
 

@@ -24,7 +24,7 @@ Separately, but no less importantly, within the MetHUH Sentiment tokens can be g
 
 ### HUH TECHNOLOGY
 
-HUH is the next evolution of a yield-generating contract on the Binance Smart Chain (BSC). HUH rewards the HUH token holding community by re-distributing HUH through a novel technology called reflection (see [above](../../) - Reflect.finance, 2021).&#x20;
+HUH is the next evolution of a yield-generating contract on the Binance Smart Chain (BSC). HUH rewards the HUH token holding community by re-distributing HUH through a novel technology called reflection (see [above](<../../README (1).md>) - Reflect.finance, 2021).&#x20;
 
 The smart contract enhances a static rewards system incentivising its network users to hold the HUH token, thus minimising the risk of major price fluctuations as a result of market swings.
 

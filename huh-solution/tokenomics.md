@@ -16,7 +16,7 @@ There will be an ETH-BSC bridge with a 1:1 swap for HUH holders to move seamless
 
 ## MONETARY POLICIES
 
-The monetary policies committee (MPC) is responsible to coordinate the proper control of the available financial instruments.
+The monetary policies committee (MPC) is responsible to coordinate the proper control of the available tokens
 
 ### Monetary Policies Committee
 
@@ -30,10 +30,12 @@ HUH has a multi-disciplinary monetary policies committee formed to cover the fol
 
 The MPC will have periodic meetings to safeguard the health of the HUH ecosystem taking into consideration direct and indirect circular economy concepts whenever feasible.
 
+#### Features governed by the ‘MPC’
+
 The following are subject to the control of the MPC:&#x20;
 
 * Market making partners and algorithms&#x20;
-* Liquidity providers and their own instruments&#x20;
+* Liquidity providers and their own characteristics
 * Tokenomics variables update&#x20;
 * Smart contracts upgradeability&#x20;
 * Token burns&#x20;
@@ -47,7 +49,7 @@ Burn address: 0x000000000000000000000000000000000000dEaD
 
 ## HUH TOKEN MARKET
 
-The initial plan for the token launch is to issue it on both PancakeSwap and UniSwap at the same time.&#x20;
+The initial plan for the token launch is to issue it on PancakeSwap&#x20;
 
 Once HUH have successfully launched on the decentralised exchanges (DEX’s) it will aim to be listed on both CoinGecko (CG) and CoinMarketCap (CMC). This will allow HUH to have a much greater reach in the crypto community and enable the creation of the HUH nation faster.&#x20;
 
@@ -59,9 +61,9 @@ To get listed on the Tier 3 exchanges HUH will need to reach a daily trade volum
 
 To get listed on the Tier 2 and Tier 1 exchanges HUH will need to reach a daily trading volume over $5,000,000.&#x20;
 
-### HUH KEY INFORMATION
+## Token Allocation&#x20;
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (2).png>)
 
 ### PRESALE BREAKDOWN
 

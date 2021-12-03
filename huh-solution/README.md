@@ -4,7 +4,7 @@
 
 HUH promotes the creation of income for every token holding member of the MetHUH using a unique referral system integrated within the smart contract. Anyone can create and share a referral code to generate returns.&#x20;
 
-As in all such programmes, returns are based on the number of HUH tokens members have.&#x20;
+As in all such programmes, rewards are based on the number of HUH tokens members have.&#x20;
 
 HUH token has a ‘fair redistribution’ model where larger investments in tokens will yield larger returns, and equally the greater the number of referrals the more rewards are earned.&#x20;
 

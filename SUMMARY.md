@@ -1,6 +1,7 @@
 # Table of contents
 
-* [INTRODUCTION](README.md)
+* [DISCLAIMER](README.md)
+* [INTRODUCTION](<README (1).md>)
 * [HUH SOLUTION](huh-solution/README.md)
   * [TOKENOMICS](huh-solution/tokenomics.md)
   * [HUH UTILITY](huh-solution/huh-utility/README.md)
@@ -21,4 +22,5 @@
 
 * [HOW TO BUY](additional-info/how-to-buy.md)
 * [FAQ](additional-info/faq.md)
+* [RISKS](additional-info/risks.md)
 * [REFERENCES](additional-info/references.md)
