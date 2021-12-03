@@ -38,20 +38,6 @@ One of the first tasks you will want to do on Metamask is to install a wallet to
 
 You now have a wallet to use!
 
-## Buying on Uniswap
-
-**Step 1.** Go to the following link: [https://app.uniswap.org/#/swap?outputCurrency=0x0](lhttps://app.uniswap.org/#/swap?outputCurrency=0x0)
-
-**Step 2:** Click "Connect Wallet."
-
-**Step 3.** Click the Metamask tab.
-
-**Step 4.** Enter your Metamask password and click unlock.
-
-**Step 5.** Follow the prompts to finish the connection process.
-
-Once you have connected your wallet, you are ready to purchase $HUH. Please remember that you need Ether in your Metamask wallet to pay for the gas fees. You can purchase Ether directly from your Metamask wallet, if you would like. You can also purchase Ether from an exchange, such as Coinbase, and send your Ether to your Metamask wallet. All you need to do is go to your preferred exchange and initiate a transfer from that exchange to your Metamask wallet address. Your Metamask wallet address can be found at the top of your Metamask wallet user interface.
-
 ## Buying on PancakeSwap
 
 **Step 1.** Go to the following link: [https://pancakeswap.finance/swap?outputCurrency=0x0](https://pancakeswap.finance/swap?outputCurrency=0x0)
@@ -64,4 +50,4 @@ Once you have connected your wallet, you are ready to purchase $HUH. Please reme
 
 **Step 5.** Follow the prompts to finish the connection process.
 
-Once you have connected your wallet, you are ready to purchase $FLOKI. Please remember that you need BNB in your Metamask wallet to pay for the gas fees. You can purchase BNB directly from your Metamask wallet, if you would like. You can also purchase BNB from an exchange, such as Coinbase, and send your BNB to your Metamask wallet. All you need to do is go to your preferred exchange and initiate a transfer from that exchange to your Metamask wallet address. Your Metamask wallet address can be found at the top of your Metamask wallet user interface.
+Once you have connected your wallet, you are ready to purchase $HUH. Please remember that you need BNB in your Metamask wallet to pay for the gas fees. You can purchase BNB directly from your Metamask wallet, if you would like. You can also purchase BNB from an exchange, such as Coinbase, and send your BNB to your Metamask wallet. All you need to do is go to your preferred exchange and initiate a transfer from that exchange to your Metamask wallet address. Your Metamask wallet address can be found at the top of your Metamask wallet user interface.

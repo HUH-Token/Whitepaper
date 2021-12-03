@@ -26,11 +26,11 @@ There is a risk that the Smart Contract, the Website, the MetHUH platform and HU
 
 ## Risk of no listing or low/no liquidity
 
-Exchanges may be subject to poorly understood regulatory oversight and the company does not give any warranties regarding any exchange service providers. Users including the participant if applicable, might be exposed to fraud and failure affecting those exchanges. There is no assurance that an active secondary market for HUH tokens will develop or continue to develop.
+Exchanges may be subject to poorly understood regulatory oversight and the Company does not give any warranties regarding any exchange service providers. Users including the participant if applicable, might be exposed to fraud and failure affecting those exchanges. There is no assurance that an active secondary market for HUH tokens will develop or continue to develop.
 
 ## Risk of eventual unfavourable fluctuation of HUH’s token value.
 
-The MetHUH platform is intended to be financially self-sufficient and the company does not have specific interests in the market value of HUH tokens. Therefore, the company considers that it shall not be affected by unfavourable fluctuation of HUH tokens value. On the other hand, token holders are subject to such risk of eventual unfavourable fluctuation of HUH tokens value as the price of HUH tokens may vary over time due to a number of factors affecting the value of token holders’ portfolios. Additionally, there are several potential events that could affect the risk of unfavourable fluctuation in the value of BNB or HUH tokens including security incidents or market irregularities at one of more of the significant cryptocurrency exchanges.
+The MetHUH platform is intended to be financially self-sufficient and the Company does not have specific interests in the market value of HUH tokens. Therefore, the Company considers that it shall not be affected by unfavourable fluctuation of HUH tokens value. On the other hand, token holders are subject to such risk of eventual unfavourable fluctuation of HUH tokens value as the price of HUH tokens may vary over time due to a number of factors affecting the value of token holders’ portfolios. Additionally, there are several potential events that could affect the risk of unfavourable fluctuation in the value of BNB or HUH tokens including security incidents or market irregularities at one of more of the significant cryptocurrency exchanges.
 
 ## Risk of malfunction of the BSC network or any other Blockchain and competing platforms
 
