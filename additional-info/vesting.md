@@ -4,6 +4,8 @@ description: '"It''s there to protect us all"'
 
 # VESTING
 
+This section provides an explanation for what a vesting schedule is, its characteristics and why we have chosen it to take effect on launch date.
+
 ## MPC Resolution
 
 Considering:
@@ -32,11 +34,11 @@ Indeed! As a demonstration of HUH’s generosity and happiness towards our legen
 
 ### Rationale
 
-Digital tokens like HUH token are virtual currencies. Virtual currencies, like Bitcoin and Ethereum, have, in recent times, proven their performance and helped to construct important virtual economies. They are revolutionising the manner in which we collaborate and are enabling an entire new world of opportunities for their users. Good initiatives using social tokens can enable us to create solutions for the greater community good. In addition we can create value for their users and the social networks they belong to. This, in turn, can create a positive network effect in which social influencers and their followers magnetically align with the social network’s organisation values.
+Digital tokens like HUH token are virtual currencies. Virtual currencies, like Bitcoin and Ethereum, have, in recent times, proven their performance and helped to construct important virtual economies. They are revolutionising the manner in which we collaborate and are enabling an entire new world of opportunities for their users. To ensure the optimisation of the HUH incentive programme it is imperative that both interests of the holders of the HUH token and the MetHUH are aligned. This, in turn, can create a positive network effect in which social influencers, their followers and the MetHUH's values are in harmony.
 
-However, with all tokens comes the chance of financial speculation. Speculation isn’t always always a terrible thing. It drives people currently not using tokens into the world of crypto and brings new capital tin to help innovate and grow the market. It is difficult to construct a sustainable token that will have longevity just out of speculative purchases, for this you need true utility.
+However, with all tokens comes the chance of financial speculation. Speculation isn’t always a negative thing though, especially when there is an intrinsic fees system that is always in place dampening volatility. It drives people currently not using tokens into the world of crypto and brings new capital in to help innovate and grow the market. It is difficult to construct a sustainable and dynasty lasting token just out of greed, for this you need true utility.
 
-To protect your investment in HUH tokens from unscrupulous ‘pump and dump’ players we need HUH token holders to trade some but hold the majority of their tokens to preserve and grow the token value. This is done by scheduling vesting of the HUH token over a period of time. This prevents HUH token holders from coming in with the motive of purchasing and promoting the HUH token then some days later when it pumps, dump. The mechanism we use is known as a Vesting Schedule. This is a effective device to construct a sustainable decentralised network.
+To protect your investment in HUH tokens from unscrupulous 'pump and dump' players we need HUH token holders to trade some but hold the majority of their tokens to preserve and grow the token value. This is done by scheduling vesting of the HUH token over a period of time. This prevents HUH token holders from coming in with the motive of purchasing and promoting the HUH token then some days later when it pumps, dump. The mechanism we use is known as a Vesting Schedule. This is a effective device to construct a sustainable decentralised network and prevents people buying and selling lumpsum amounts a few days after launch when the economy is still at its early infancy, its most fragile stage.
 
 ## What is Token Vesting?
 
