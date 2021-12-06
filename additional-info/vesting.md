@@ -18,7 +18,7 @@ Considering:
 The Monetary Policy Committee (MPC) had a extraordinary pre-birthday meeting and deliberated the following:
 
 * Presale investors will receive their HUH tokens through an initial vesting period of 6 weeks. The vesting period starts on December 6th 2021 to January 17th 2021 for presale investors.
-* Presale investors will receive 2 times more tokens.
+* Presale investors will receive 100% more tokens.
 
 The vesting has been added as an important mechanism to safeguard community interests and at the same time strengthen the long term vision with a plethora of technologies at HUH disposal.
 
