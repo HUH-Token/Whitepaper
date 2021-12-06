@@ -1,0 +1,52 @@
+---
+description: '"It''s there to protect us all"'
+---
+
+# VESTING
+
+## MPC Resolution
+
+Considering:
+
+* the nature of the involved technologies
+* history of both meme and utility token launches
+* HUH marketing positioning strategy
+* increasing community concerns with HUH early days
+
+The Monetary Policy Committee (MPC) had a extraordinary pre-birthday meeting and deliberated the following:
+
+* Presale investors will receive their HUH tokens through an initial vesting period of 6 weeks. The vesting period starts on December 6th 2021 to January 17th 2021 for presale investors.
+* Presale investors will receive 10 times more tokens.
+
+The vesting has been added as an important mechanism to safeguard community interests and at the same time strengthen the long term vision with a plethora of technologies at HUH disposal.
+
+### Vesting details
+
+The vesting contract is structured in such a way that the allowance to withdraw follows a linear progression from 5% up to 1000% of contracted tokens.
+
+> Was that a typo? One thousand percent?
+
+Indeed! As a demonstration of HUH’s generosity and happiness towards our legendary HUH early birds 🐦, the MPC agreed airdropping a thousand percent the amount of tokens purchased in the presale. The withdrawal allowance follows the line in figure 7.
+
+![Fig. 7. Withdrawal allowance line](<../.gitbook/assets/image (3).png>)
+
+### Rationale
+
+Digital tokens like HUH token are virtual currencies. Virtual currencies, like Bitcoin and Ethereum, have, in recent times, proven their performance and helped to construct important virtual economies. They are revolutionising the manner in which we collaborate and are enabling an entire new world of opportunities for their users. Good initiatives using social tokens can enable us to create solutions for the greater community good. In addition we can create value for their users and the social networks they belong to. This, in turn, can create a positive network effect in which social influencers and their followers magnetically align with the social network’s organisation values.
+
+However, with all tokens comes the chance of financial speculation. Speculation isn’t always always a terrible thing. It drives people currently not using tokens into the world of crypto and brings new capital tin to help innovate and grow the market. It is difficult to construct a sustainable token that will have longevity just out of speculative purchases, for this you need true utility.
+
+To protect your investment in HUH tokens from unscrupulous ‘pump and dump’ players we need HUH token holders to trade some but hold the majority of their tokens to preserve and grow the token value. This is done by scheduling vesting of the HUH token over a period of time. This prevents HUH token holders from coming in with the motive of purchasing and promoting the HUH token then some days later when it pumps, dump. The mechanism we use is known as a Vesting Schedule. This is a effective device to construct a sustainable decentralised network.
+
+## What is Token Vesting?
+
+When launching a decentralised community it is common practice to establish a token for attracting and retaining talent of the highest possible quality. Founding members initially have concentrated power over the distribution of the Token.
+
+It is equally important for investors to bring in important funding for the project as it is for talented team members to develop all the necessary initiatives that allow the process of power sharing to start. This process is analogous to the first minting of metal coins in history where wealthy kings shared their wealth with their nation. &#x20;
+
+It is recommended to vest a portion of the tokens to prevent potentially harmful behaviours to the network, though. The vesting denotes commitment and prudence of the founding team in delivering power to the community in a reliable and sustainable manner.
+
+Locking tokens concretely shows investors that the team has their best intentions at heart and are aiming for a long-term vision, not short term gains. The owners of vested tokens can't withdraw 100% of them directly and has its withdrawal ability limited to the allowance set in the vesting schedule. In our case, during our vesting schedule, gradually more tokens are allowed to be withdrawn prorated to the underlying block time. When the vesting period has been completed, the smart contract will allow holders to fully withdraw their tokens without limitation.
+
+Enjoy HUH creation day with love and joy. Congratulations HUH 🎂!
+

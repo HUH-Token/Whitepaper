@@ -23,6 +23,7 @@
 
 ## ADDITIONAL INFO
 
+* [VESTING](additional-info/vesting.md)
 * [HOW TO BUY](additional-info/how-to-buy.md)
 * [FAQ](additional-info/faq.md)
 * [RISKS](additional-info/risks.md)
