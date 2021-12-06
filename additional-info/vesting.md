@@ -24,11 +24,11 @@ The vesting has been added as an important mechanism to safeguard community inte
 
 ### Vesting details
 
-The vesting contract is structured in such a way that the allowance to withdraw follows a linear progression from 5% up to 1000% of contracted tokens.
+The vesting contract is structured in such a way that the allowance to withdraw follows a linear progression from 5% up to 200% of contracted tokens.
 
-> Was that a typo? One thousand percent?
+> Was that a typo? Two hundred percent?
 
-Indeed! As a demonstration of HUH’s generosity and happiness towards our legendary HUH early birds 🐦, the MPC agreed airdropping a thousand percent the amount of tokens purchased in the presale. The withdrawal allowance follows the line in figure 7.
+Indeed! As a demonstration of HUH’s generosity and happiness towards our legendary HUH early birds 🐦, the MPC agreed airdropping a whopping two hundred percent the amount of tokens purchased in the presale. The withdrawal allowance follows the line in figure 7.
 
 ![Fig. 7. Withdrawal allowance line](<../.gitbook/assets/image (3).png>)
 
