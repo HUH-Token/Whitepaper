@@ -40,7 +40,7 @@ You now have a wallet to use!
 
 ## Buying on PancakeSwap
 
-**Step 1.** Go to the following link: [https://pancakeswap.finance/swap?outputCurrency=0x0](https://pancakeswap.finance/swap?outputCurrency=0x0)
+**Step 1.** Go to the following link: [https://pancakeswap.finance/swap?outputCurrency=0x0xc15e89f2149bCC0cBd5FB204C9e77fe878f1e9b2](https://pancakeswap.finance/swap?outputCurrency=0x0xc15e89f2149bCC0cBd5FB204C9e77fe878f1e9b2)
 
 **Step 2:** Click "Connect Wallet."
 
