@@ -18,19 +18,19 @@ Considering:
 The Monetary Policy Committee (MPC) had a extraordinary pre-birthday meeting and deliberated the following:
 
 * Presale investors will receive their HUH tokens through an initial vesting period of 6 weeks. The vesting period starts on December 6th 2021 to January 17th 2021 for presale investors.
-* Presale investors will receive thirty times more tokens.
+* Presale investors will receive fifty times more tokens.
 
 The vesting has been added as an important mechanism to safeguard community interests and at the same time strengthen the long term vision with a plethora of technologies at HUH disposal.
 
 ### Vesting details
 
-The vesting contract is structured in such a way that the allowance to withdraw follows a linear progression from 5% up to 3000% of contracted tokens.
+The vesting contract is structured in such a way that the allowance to withdraw follows a linear progression from 5% up to 5000% of contracted tokens.
 
-> Was that a typo? Three thousand percent?
+> Was that a typo? Five thousand percent?
 
-Indeed! As a demonstration of HUH’s generosity and happiness towards our legendary HUH early birds 🐦, the MPC agreed airdropping a whopping three thousand percent the amount of tokens purchased in the presale. The withdrawal allowance follows the line in figure 7.
+Indeed! As a demonstration of HUH’s generosity and happiness towards our legendary HUH early birds 🐦, the MPC agreed airdropping a whopping five thousand percent the amount of tokens purchased in the presale. The withdrawal allowance follows the line in figure 7.
 
-![Fig. 7. Withdrawal allowance line](<../.gitbook/assets/image (4).png>)
+![Fig. 7. Withdrawal allowance line](<../.gitbook/assets/image (5).png>)
 
 ### Rationale
 
