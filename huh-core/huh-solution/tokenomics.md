@@ -82,10 +82,10 @@ Pre-Sale: 1% of Total Supply (8,880,000,000).&#x20;
 
 For each transaction type there are different fees applied as follows:
 
-* Normal Buy Fee: 15%:&#x20;
-  * 5% LP Acquisition &#x20;
-  * 5% HUH Token Redistribution &#x20;
-  * 5% Marketing Wallet&#x20;
+* Normal Buy Fee: 3%:&#x20;
+  * 1% LP Acquisition &#x20;
+  * 1% HUH Token Redistribution &#x20;
+  * 1% Marketing Wallet&#x20;
 * Normal Sell Fee: 20%:&#x20;
   * 10% LP Acquisition&#x20;
   * 5% HUH Token Redistribution &#x20;
