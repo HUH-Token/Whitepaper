@@ -71,9 +71,19 @@ The Current value of the token is: $1 = 177 HUH Tokens.&#x20;
 
 Total Supply: 888,000,000,000 (888 billion HUH Tokens).&#x20;
 
-Pre-Sale: 1% of Total Supply (8,880,000,000).&#x20;
+Pre-Sale: 1% of Total Supply (8,880,000,000).
 
-### Transaction types:
+#### Important wallets:
+
+|                        |                                                                                                                          |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| **Wallet Description** | **Address**                                                                                                              |
+| Token Deployer         | [0x47119643cf8533827b4c20f521e69b96c1bfe8f9](https://www.bscscan.com/address/0x47119643cf8533827b4c20f521e69b96c1bfe8f9) |
+| Token Owner            | [0x47119643cf8533827b4c20f521e69b96c1bfe8f9](https://www.bscscan.com/address/0x47119643cf8533827b4c20f521e69b96c1bfe8f9) |
+| Marketing              | [0x783f51eF9Ac932B323dDb26701aD7897315a2cD5](https://www.bscscan.com/address/0x783f51ef9ac932b323ddb26701ad7897315a2cd5) |
+| Reward Distributor     | [0x1529B357C8559Da530c6f26e80fB3Ae16258c1eb](https://www.bscscan.com/address/0x1529b357c8559da530c6f26e80fb3ae16258c1eb) |
+
+#### Transaction types:
 
 * Normal Buy
 * Normal Sell
@@ -87,9 +97,9 @@ For each transaction type there are different fees applied as follows:
   * 1% HUH Token Redistribution &#x20;
   * 1% Marketing Wallet&#x20;
 * Normal Sell Fee: 20%:&#x20;
-  * 10% LP Acquisition&#x20;
-  * 5% HUH Token Redistribution &#x20;
-  * 5% Marketing Wallet&#x20;
+  * 15% LP Acquisition&#x20;
+  * 4% HUH Token Redistribution &#x20;
+  * 1% Marketing Wallet&#x20;
 * Referred Buy Fee: 15%:&#x20;
   * 10% BNB Referral Reward&#x20;
   * 5% Marketing Wallet&#x20;
@@ -98,7 +108,7 @@ For each transaction type there are different fees applied as follows:
   * 2.5% HUH Token Redistribution&#x20;
   * 5 % Marketing Wallet
 
-### Presale Strategy
+#### Presale Strategy
 
 The Dev Wallet is at 5% as to continue paying developers in continuously improving the HUH Token and adapting it for the future.&#x20;
 
