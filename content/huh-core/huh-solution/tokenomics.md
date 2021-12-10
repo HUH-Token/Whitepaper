@@ -65,10 +65,17 @@ To get listed on the Tier 2 and Tier 1 exchanges HUH will need to reach a daily 
 
 ```mermaid
 pie
-    title Pie Chart
-    "Dogs" : 386
-    "Cats" : 85
-    "Rats" : 150 
+    title Token Allocation Pue
+    "Pre-Public Sale": 1
+    "HUH-Swap" : 1
+    "Bridge Lock" : 20
+    "Elon Musk Lock" : 20
+    "MetHUH" : 10
+    "Marketing Wallet": 5
+    "Influencers": 5
+    "Dev wallet": 5
+    "CEX's": 23
+    "Pancake Swap": 10 
 ```
 
 ### PRESALE BREAKDOWN
