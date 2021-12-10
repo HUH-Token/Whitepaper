@@ -63,7 +63,13 @@ To get listed on the Tier 2 and Tier 1 exchanges HUH will need to reach a daily 
 
 ## Token Allocation&#x20;
 
-![](<../../.gitbook/assets/image (2).png>)
+```mermaid
+pie
+    title Pie Chart
+    "Dogs" : 386
+    "Cats" : 85
+    "Rats" : 150 
+```
 
 ### PRESALE BREAKDOWN
 

@@ -1,0 +1,17 @@
+{
+  "name": "whitepaper.huh.social",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "cd content && gitbook install && cd ../node_modules/npm/node_modules/graceful-fs && rm polyfills.js && wget https://raw.githubusercontent.com/isaacs/node-graceful-fs/168bdb8f0bb3174e8499d4bc5878deead4172c39/polyfills.js",
+    "upgrade": "yarn-upgrade-all && cp node_modules/mermaid/dist/mermaid.min.js content/scripts/",
+    "watch": "gitbook serve ./content ./www",
+    "release": "gitbook build ./content ./www && cp -r www/* ../whitepaper.huh.social/"
+  },
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2",
+    "mermaid": "^8.13.5",
+    "standard": "^16.0.4",
+    "yarn-upgrade-all": "^0.5.4"
+  }
+}
