@@ -100,6 +100,7 @@ Pre-Sale: 1% of Total Supply (8,880,000,000).
 | Marketing              | [0x783f51eF9Ac932B323dDb26701aD7897315a2cD5](https://www.bscscan.com/address/0x783f51ef9ac932b323ddb26701ad7897315a2cd5) |
 | Reward Distributor     | [0x1529B357C8559Da530c6f26e80fB3Ae16258c1eb](https://www.bscscan.com/address/0x1529b357c8559da530c6f26e80fb3ae16258c1eb) |
 | Elon Musk              | [0xc43bc578f02Dd0b6444B2Ab4E2dA2716f8D5fFF1](https://www.bscscan.com/address/0xc43bc578f02Dd0b6444B2Ab4E2dA2716f8D5fFF1) |
+| MetHUH                 | [0x47EffAa500802ecF415dC90aC47d4AF92D550eF9](https://www.bscscan.com/address/0x47effaa500802ecf415dc90ac47d4af92d550ef9) |
 | Influencers            | [0x01bB388504811EdFe9303b11096F223F6d6737f5](https://www.bscscan.com/address/0x01bB388504811EdFe9303b11096F223F6d6737f5) |
 | Dev                    | [0x51F57d7C2be1ce6eAf33F44B7E58f45d7d5Af1Ff](https://www.bscscan.com/address/0x51F57d7C2be1ce6eAf33F44B7E58f45d7d5Af1Ff) |
 | HUH Swap               | [0x9246e591859F7F630E8635FF7EF54a26456BD6Cd](https://www.bscscan.com/address/0x9246e591859F7F630E8635FF7EF54a26456BD6Cd) |
