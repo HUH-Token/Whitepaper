@@ -71,16 +71,16 @@ The token allocation is made with the shares present in the following table:
 | Exchanges       | 40             |
 | Elon Musk       | 20             |
 | Pancake Swap    | 10             |
-| MetHUH          | 9              |
+| MetHUH          | 8              |
 | Marketing       | 5              |
 | Presale         | 5              |
 | Development     | 5              |
 | Influencers     | 5              |
-| HUH Swap        | 1              |
+| HUH Swap        | 2              |
 
-&#x20;The ratio of shares is represented in the pie chart of figure 1.
+The ratio of shares is represented in the pie chart of figure 1.
 
-![Figure 1. HUH Token allocation pie chart.](<../../.gitbook/assets/image (6).png>)
+![Figure 1. Ratio Of Shares pie chart.](../../.gitbook/assets/shares-ratio.svg)
 
 ### PRESALE BREAKDOWN
 
