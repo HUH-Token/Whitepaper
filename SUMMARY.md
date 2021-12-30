@@ -19,6 +19,7 @@
 ## EXCHANGES
 
 * [PancakeSwap](exchanges/pancakeswap.md)
+* [SushiSwap](exchanges/sushiswap.md)
 * [Centralized Exchanges](exchanges/centralized-exchanges.md)
 
 ## ADDITIONAL INFO

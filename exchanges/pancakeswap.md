@@ -1,5 +1,5 @@
 ---
-description: In pancakes we trust
+description: In pancakes we trust.
 ---
 
 # PancakeSwap
