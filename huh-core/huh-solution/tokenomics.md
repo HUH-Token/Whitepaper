@@ -8,7 +8,13 @@ HUH token initially presents a bold fees system to accommodate initial market ne
 
 The HUH token will be available on more than one blockchain. Each blockchain HUH is on has its own strong points that allows the HUH ecosystem to thrive on it.
 
-As of right now, HUH will be made available on the Binance Smart Chain with Ethereum to follow shortly.
+HUH is available on the Binance Smart Chain and Ethereum networks as can be seen in the following table.
+
+|                     |                                                                                                                        |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| **Network**         | **Contract Address**                                                                                                   |
+| Binance Smart Chain | [0xc15e89f2149bCC0cBd5FB204C9e77fe878f1e9b2](https://www.bscscan.com/token/0xc15e89f2149bCC0cBd5FB204C9e77fe878f1e9b2) |
+| Ethereum            | [0x86D49fbD3B6f989d641E700a15599d3b165002AB](https://etherscan.io/token/0x86d49fbd3b6f989d641e700a15599d3b165002ab)    |
 
 HUH plans to bring liquidity to pools on strategic decentralised exchanges while ensuring that total circulating supply across all chains never exceeds 888B tokens as originally promised.
 
