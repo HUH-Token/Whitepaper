@@ -10,11 +10,11 @@ The HUH token will be available on more than one blockchain. Each blockchain HUH
 
 HUH is available on the Binance Smart Chain and Ethereum networks as can be seen in the following table.
 
-|                     |                                                                                                                        |
-| ------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| **Network**         | **Contract Address**                                                                                                   |
-| Binance Smart Chain | [0xc15e89f2149bCC0cBd5FB204C9e77fe878f1e9b2](https://www.bscscan.com/token/0xc15e89f2149bCC0cBd5FB204C9e77fe878f1e9b2) |
-| Ethereum            | [0x86D49fbD3B6f989d641E700a15599d3b165002AB](https://etherscan.io/token/0x86d49fbd3b6f989d641e700a15599d3b165002ab)    |
+|                     |                                                                                                                        |                                                                                                                          |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| **Network**         | **Contract Address**                                                                                                   | Reward Distributor Address                                                                                               |
+| Binance Smart Chain | [0xc15e89f2149bCC0cBd5FB204C9e77fe878f1e9b2](https://www.bscscan.com/token/0xc15e89f2149bCC0cBd5FB204C9e77fe878f1e9b2) | [0x1529B357C8559Da530c6f26e80fB3Ae16258c1eb](https://www.bscscan.com/address/0x1529b357c8559da530c6f26e80fb3ae16258c1eb) |
+| Ethereum            | [0x86D49fbD3B6f989d641E700a15599d3b165002AB](https://etherscan.io/token/0x86d49fbd3b6f989d641e700a15599d3b165002ab)    | [0xc15e89f2149bCC0cBd5FB204C9e77fe878f1e9b2](https://etherscan.io/address/0xc15e89f2149bcc0cbd5fb204c9e77fe878f1e9b2)    |
 
 HUH plans to bring liquidity to pools on strategic decentralised exchanges while ensuring that total circulating supply across all chains never exceeds 888B tokens as originally promised.
 
@@ -105,7 +105,6 @@ Pre-Sale: 1% of Total Supply (8,880,000,000).
 | Token Owner            | [0x47119643cf8533827b4c20f521e69b96c1bfe8f9](https://www.bscscan.com/address/0x47119643cf8533827b4c20f521e69b96c1bfe8f9) |
 | Exchanges              | [0x6C110FFb199e58472765A06C16b8692524859aE9](https://www.bscscan.com/address/0x6c110ffb199e58472765a06c16b8692524859ae9) |
 | Marketing              | [0x783f51eF9Ac932B323dDb26701aD7897315a2cD5](https://www.bscscan.com/address/0x783f51ef9ac932b323ddb26701ad7897315a2cd5) |
-| Reward Distributor     | [0x1529B357C8559Da530c6f26e80fB3Ae16258c1eb](https://www.bscscan.com/address/0x1529b357c8559da530c6f26e80fb3ae16258c1eb) |
 | Elon Musk              | [0xc43bc578f02Dd0b6444B2Ab4E2dA2716f8D5fFF1](https://www.bscscan.com/address/0xc43bc578f02Dd0b6444B2Ab4E2dA2716f8D5fFF1) |
 | MetHUH                 | [0x47EffAa500802ecF415dC90aC47d4AF92D550eF9](https://www.bscscan.com/address/0x47effaa500802ecf415dc90ac47d4af92d550ef9) |
 | Influencers            | [0x01bB388504811EdFe9303b11096F223F6d6737f5](https://www.bscscan.com/address/0x01bB388504811EdFe9303b11096F223F6d6737f5) |
