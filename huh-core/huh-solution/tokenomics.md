@@ -10,9 +10,11 @@ The HUH token will be available on more than one blockchain. Each blockchain HUH
 
 HUH is available on the Binance Smart Chain and Ethereum networks as can be seen in the following table.
 
+### Deployed Artifacts
+
 |                     |                                                                                                                        |                                                                                                                          |
 | ------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| **Network**         | **Contract Address**                                                                                                   | Reward Distributor Address                                                                                               |
+| **Network**         | **Contract Address**                                                                                                   | **Reward Distributor Address**                                                                                           |
 | Binance Smart Chain | [0xc15e89f2149bCC0cBd5FB204C9e77fe878f1e9b2](https://www.bscscan.com/token/0xc15e89f2149bCC0cBd5FB204C9e77fe878f1e9b2) | [0x1529B357C8559Da530c6f26e80fB3Ae16258c1eb](https://www.bscscan.com/address/0x1529b357c8559da530c6f26e80fb3ae16258c1eb) |
 | Ethereum            | [0x86D49fbD3B6f989d641E700a15599d3b165002AB](https://etherscan.io/token/0x86d49fbd3b6f989d641e700a15599d3b165002ab)    | [0xc15e89f2149bCC0cBd5FB204C9e77fe878f1e9b2](https://etherscan.io/address/0xc15e89f2149bcc0cbd5fb204c9e77fe878f1e9b2)    |
 
