@@ -136,7 +136,7 @@ On every buy and sell transaction within the HUH token ecosystem, fees are deduc
 * Referred Buy
 * Referred Sell
 
-For each transaction type there are different fees applied as follows:
+For each transaction type we have changed the fees to:
 
 * Normal Buy Fee: `0%`:
   * `0%` LP Acquisition
@@ -151,8 +151,8 @@ For each transaction type there are different fees applied as follows:
   * `0%` Marketing Wallet
 * Referred Sell Fee: `5%`:
   * `0%` LP Acquisition
-  * `0%` HUH Token Redistribution
-  * `5%` Marketing Wallet
+  * `5%` HUH Token Redistribution
+  * `0%` Marketing Wallet
 
 ### Fees Purpose
 
