@@ -113,31 +113,6 @@ Pre-Sale: 1% of Total Supply (8,880,000,000).
 | Dev                    | [0x51F57d7C2be1ce6eAf33F44B7E58f45d7d5Af1Ff](https://www.bscscan.com/address/0x51F57d7C2be1ce6eAf33F44B7E58f45d7d5Af1Ff) |
 | HUH Swap               | [0x9246e591859F7F630E8635FF7EF54a26456BD6Cd](https://www.bscscan.com/address/0x9246e591859F7F630E8635FF7EF54a26456BD6Cd) |
 
-#### Transaction types:
-
-* Normal Buy
-* Normal Sell
-* Referred Buy
-* Referred Sell
-
-For each transaction type there are different fees applied as follows:
-
-* Normal Buy Fee: 2%:
-  * 1% LP Acquisition
-  * 1% HUH Token Redistribution
-  * 0% Marketing Wallet
-* Normal Sell Fee: 2%:
-  * 1% LP Acquisition
-  * 1% HUH Token Redistribution
-  * 0% Marketing Wallet
-* Referred Buy Fee: 15%:
-  * 10% BNB Referral Reward
-  * 5% Marketing Wallet
-* Referred Sell Fee: 10%:
-  * 2.5% LP Acquisition
-  * 2.5% HUH Token Redistribution
-  * 5 % Marketing Wallet
-
 #### Presale Strategy
 
 The Dev Wallet is at 5% as to continue paying developers in continuously improving the HUH Token and adapting it for the future.
@@ -151,6 +126,35 @@ HUH Token Redistribution is another strategy, complementary to freezing, to rewa
 ## FEES SYSTEM
 
 On every buy and sell transaction within the HUH token ecosystem, fees are deducted in the best interest of the community as a whole. 
+
+### Fees Being Practiced
+
+#### Transaction types:
+
+* Normal Buy
+* Normal Sell
+* Referred Buy
+* Referred Sell
+
+For each transaction type there are different fees applied as follows:
+
+* Normal Buy Fee: `0%`:
+  * `0%` LP Acquisition
+  * `0%` HUH Token Redistribution
+  * `0%` Marketing Wallet
+* Normal Sell Fee: `10%`:
+  * `0%`  LP Acquisition
+  * `10%` HUH Token Redistribution
+  * `0%` Marketing Wallet
+* Referred Buy Fee: `10%`:
+  * `10%` BNB Referral Reward
+  * `0%` Marketing Wallet
+* Referred Sell Fee: `5%`:
+  * `0%` LP Acquisition
+  * `0%` HUH Token Redistribution
+  * `5%` Marketing Wallet
+
+### Fees Purpose
 
 HUH token fees were designed to cover 4 different purposes set out below:
 
