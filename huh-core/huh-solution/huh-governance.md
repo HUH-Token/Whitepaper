@@ -35,7 +35,7 @@ Where:
 And vote quality is calculated by the formula in Equation 2.
 
 $$
-{ voteQuality = \begin{cases}\displaystyle\sum_{n=1} ^{N}frozenStake_{n} * voterConsciousness, & (n \in \mathbb{N}^*)\\ 0, & (n=0)\end{cases}}
+{ voteQuality = \begin{cases}\displaystyle\sum_{n=1} ^{N}frozenStake_{n} * voterConsciousness, & (n \in \mathbb{N}^*)\\ 0, & (N=0)\end{cases}}
 $$
 
 ​Eq.2 Vote quality calculation for voting in ConSenseUs strategy.
