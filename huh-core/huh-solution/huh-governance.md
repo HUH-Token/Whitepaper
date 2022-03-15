@@ -8,43 +8,43 @@ The default consensus strategy throughout the entire HUH ecosystem is ConSenseUs
 
 ## HUH ConSenseUs (CSU)
 
-HUH entities willing to participate in HUH’s governance should expect that a vote quality assessment will be conducted for most DAO voting processes. &#x20;
+HUH entities willing to participate in HUH’s governance should expect that a vote quality assessment will be conducted for most DAO voting processes.
 
-The quality of a vote will be modelled initially as a bi-dimensional feature depending on:&#x20;
+The quality of a vote will be modelled initially as a bi-dimensional feature depending on:
 
-* the consciousness level the voter has on the subject under voting associated with the concerning knowledge fields&#x20;
-* the voter’s frozen stake&#x20;
+* the consciousness level the voter has on the subject under voting associated with the concerning knowledge fields
+* the voter’s frozen stake
 
 The heatmap of the figure 6 shows the vote quality change depending on the consciousness and frozen stake a voter has.
 
 ![Fig. 6. Vote quality heatmap](<../../.gitbook/assets/image (1) (1).png>)
 
-
-
 A technology based on the [Consider.it](https://consider.it) system is being developed to run our main consensus strategy CSU in order to reach DAOs outcomes. The stake is calculated by the formula in Equation 1.
 
 $$
-{ stake_{frozen} = \Delta t_{frozen} * number_{frozentokens} }
+{ frozenStake = \Delta t_{frozen} * frozenTokensNumber }
 $$
 
 ​Eq.1 Frozen stake calculation for voting in ConSenseUs strategy.
 
 Where:
 
-* ∆t\_frozen = time lock period of frozen tokens
-* number\_frozentokens = amount of tokens frozen in the token time lock contract.
+* $$\Delta t_{frozen}$$ = time lock period of frozen tokens
+* $$frozenTokensNumber$$ = amount of tokens frozen in the token time lock contract.
 
 And vote quality is calculated by the formula in Equation 2.
 
 $$
-{ quality_{vote} = stake_{frozen} * consciousness_{voter} }
+{ voteQuality = \displaystyle\sum_{n=1} ^{N}frozenStake_{n} * voterConsciousness }
 $$
 
 ​Eq.2 Vote quality calculation for voting in ConSenseUs strategy.
 
 Where:
 
-* consciousness\_voter = grade achieved by voter in consciousness assessment on the subject under voting from 0 to 1.
+* $$voterConsciousness$$ = grade achieved by voter in consciousness assessment on the subject under voting from 0 to 1.
+* $$frozenStake_{n}$$ = each $$frozenStake$$ a voter has.
+* $$N$$ = maximum number of $$frozenStakes$$ a voter has.
 
 ## Freezing
 
@@ -52,7 +52,7 @@ The process of token time locking HUH tokens is called freezing by HUH community
 
 ## HUH Federations
 
-Federated child organizations may form a HUH federation. A HUH federation is any DAO in which at least two different member entities are also a DAO.  The purpose of a HUH federation is to lead around common values among federated entities. The union of federations and organizations is promoted by means of a system designed to reward union tokens to cohesive behaviours. The more behaviours provenly associated with strengthening the union and combating division within the community more HUH union tokens will be granted to the responsible entity.&#x20;
+Federated child organizations may form a HUH federation. A HUH federation is any DAO in which at least two different member entities are also a DAO.  The purpose of a HUH federation is to lead around common values among federated entities. The union of federations and organizations is promoted by means of a system designed to reward union tokens to cohesive behaviours. The more behaviours provenly associated with strengthening the union and combating division within the community more HUH union tokens will be granted to the responsible entity.
 
 A strong union observed by HUH entities is analogous to the concept behind a tree where strong roots, trunk and associated branches with 'happy' green leaves are instrumental to achieve sustainable growth.
 
