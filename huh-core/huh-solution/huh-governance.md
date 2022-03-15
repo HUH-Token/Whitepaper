@@ -44,7 +44,7 @@ Where:
 
 * $$voterConsciousness$$ = grade achieved by voter in consciousness assessment on the subject under voting from 0 to 1.
 * $$frozenStake_{n}$$ = each $$frozenStake$$ a voter has.
-* $$N$$ = maximum number of $$frozenStakes$$ a voter has.
+* $$N$$ = number of $$frozenStakes$$ a voter has.
 
 ## Freezing
 
