@@ -17,6 +17,7 @@ HUH is available on the Binance Smart Chain and Ethereum networks as can be seen
 | **Network**         | **Contract Address**                                                                                                   | **Reward Distributor Address**                                                                                           |
 | Binance Smart Chain | [0xc15e89f2149bCC0cBd5FB204C9e77fe878f1e9b2](https://www.bscscan.com/token/0xc15e89f2149bCC0cBd5FB204C9e77fe878f1e9b2) | [0x1529B357C8559Da530c6f26e80fB3Ae16258c1eb](https://www.bscscan.com/address/0x1529b357c8559da530c6f26e80fb3ae16258c1eb) |
 | Ethereum            | [0x86D49fbD3B6f989d641E700a15599d3b165002AB](https://etherscan.io/token/0x86d49fbd3b6f989d641e700a15599d3b165002ab)    | [0xc15e89f2149bCC0cBd5FB204C9e77fe878f1e9b2](https://etherscan.io/address/0xc15e89f2149bcc0cbd5fb204c9e77fe878f1e9b2)    |
+| Polygon             | [0x08648471B5AAd25fEEeb853d6829048f3Fc37786](https://polygonscan.com/token/0x08648471b5aad25feeeb853d6829048f3fc37786) | [0x784235Eb9a04CD5949E94a9C9DDd523f9080CbA7](https://polygonscan.com/address/0x784235eb9a04cd5949e94a9c9ddd523f9080cba7) |
 
 HUH plans to bring liquidity to pools on strategic decentralised exchanges while ensuring that total circulating supply across all chains never exceeds 888B tokens as originally promised.
 
